@@ -3,4 +3,22 @@ div {
   width: 65px;
   height: 65px;
   background-clip: content-box;
+  margin: 30px;
+  border: solid 1px black
+}
+#one {
+  padding: 10px;
+}
+#two {
+  padding: 25px 65px;
+}
+#three {
+  padding: 15px 15px;
+  padding-bottom: 40px;
+}
+#four {
+  padding: 10px 10px;
+  padding-bottom: 40px;
+  padding-right: 150px;
+  padding-left: 250px;
 }
